@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique!",
+      "likes": 15
+    },
+    {
+      "id": "3",
+      "title": "New Vue course coming soon",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique!",
+      "likes": 30
+    },
+    {
+      "id": "3d2d",
+      "title": "Francis",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas delectus corrupti quis quo iure id nisi sunt? Minima commodi blanditiis repellendus asperiores explicabo repellat sunt nobis. Magni iste provident similique!",
+      "likes": 10
+    },
+    {
+      "id": "8fc0",
+      "title": "Dubby",
+      "body": "diohiohaiohifahfijof",
+      "likes": 0
+    }
+  ],
+  "polls": [
+    {
+      "id": "1",
+      "question": "Do you prefer Vue or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
